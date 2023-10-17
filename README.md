@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codewithkunal2023
-- 👀 I’m interested in Development in Java
+- 👀 I’m interested in Code in Java
 - 🌱 I’m currently learning ...
 
 
